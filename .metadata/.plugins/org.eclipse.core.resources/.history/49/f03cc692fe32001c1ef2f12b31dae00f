@@ -1,0 +1,27 @@
+<html>
+<body>
+
+<h2>Hello This is our Home </h2>
+
+<form action="addStudent">
+  Enter Id :<input type="text" name="Id" ><br><br>
+  Enter Name : <input type="text" name="Name" ><br>
+  <input type="submit" value="Submit">
+</form> 
+
+<p>If you click the "Submit" button, the form-data will be sent to a page called adduser</p>
+
+<h2> TO DISPLAY INFORMATION ENTER YOUR ID</h2>
+<form action="getStudent">
+  Enter Id to Find:<input type="text" name="Id" ><br><br>
+  <input type="submit" value="Submit">
+</form>
+
+<!-- <form action="getuser"> -->
+<!-- 	<input type="submit" value = "Show ALl Users"> -->
+<!-- </form> -->
+
+
+
+</body>
+</html>

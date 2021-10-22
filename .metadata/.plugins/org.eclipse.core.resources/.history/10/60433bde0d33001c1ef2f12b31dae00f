@@ -1,0 +1,6 @@
+<html>
+	<body>
+		Here is Your Search Result
+		${user}
+	</body>
+</html>
