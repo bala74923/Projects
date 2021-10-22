@@ -1,0 +1,28 @@
+
+Git push (First Time to set up origin)
+======================================
+git init
+git add .
+git commit -m "first commit"
+git remote add origin https://github.com/bala74923/Projects.git
+git push -u origin master
+
+
+
+Git push(Normal )
+=====================================
+git add .
+git commit -m "first commit"
+git push -u origin master
+
+
+
+Git Pull 
+=====================================
+git pull https://github.com/bala74923/Projects.git
+
+
+
+Git Clone
+======================================
+git clone https://github.com/bala74923/Projects.git
